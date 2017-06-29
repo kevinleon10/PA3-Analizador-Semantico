@@ -1,0 +1,18 @@
+28,29c28,29
+<             : A
+<           : A
+---
+>             : _no_type
+>           : _no_type
+35c35
+<             : A
+---
+>             : _no_type
+39,41c39,41
+<           : A
+<         : A
+<       : A
+---
+>           : _no_type
+>         : _no_type
+>       : _no_type

@@ -1,0 +1,2 @@
+./assignment.test:1: Se asigna a una variable de tipo Foo otra de tipo Object
+Compilation halted due to static semantic errors.

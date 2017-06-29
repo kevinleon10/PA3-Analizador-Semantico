@@ -1,0 +1,12 @@
+java.lang.NullPointerException
+	at plus.semant(cool-tree.java:1557)
+	at eq.semant(cool-tree.java:1897)
+	at cond.semant(cool-tree.java:1258)
+	at Expressions.semant(cool-tree.java:331)
+	at block.semant(cool-tree.java:1439)
+	at method.semant(cool-tree.java:730)
+	at Features.semant(cool-tree.java:147)
+	at class_c.semant(cool-tree.java:628)
+	at Classes.semant(cool-tree.java:65)
+	at programc.semant(cool-tree.java:491)
+	at Semant.main(Semant.java:36)
